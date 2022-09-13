@@ -1,6 +1,6 @@
 {
     "name": "popsy/site-map",
-    "description": "This package generate sitemap in multiple formals (xml, csv, json)",
+    "description": "This package generate sitemap in multiple formats (xml, csv, json)",
     "minimum-stability": "stable",
     "license": "proprietary",
     "type": "package",

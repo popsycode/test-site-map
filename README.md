@@ -1,4 +1,4 @@
-## This package generate sitemap in multiple formals (xml, csv, json)
+## This package generate sitemap in multiple formats (xml, csv, json)
 
 ### For Laravel use [Laravel-wrapper](https://github.com/popsycode/laravel-site-map)
 
