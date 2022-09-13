@@ -1,8 +1,8 @@
 <?php
 
-use SiteMap\GeneratorFactory;
-use SiteMap\Generators\JsonGenerator;
-use SiteMap\IGenerator;
+use Popsy\SiteMap\GeneratorFactory;
+use Popsy\SiteMap\Generators\JsonGenerator;
+use Popsy\SiteMap\IGenerator;
 
 require 'vendor/autoload.php';
 

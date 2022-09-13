@@ -1,10 +1,10 @@
 <?php
 
-namespace SiteMap;
+namespace Popsy\SiteMap;
 
 use Exception;
 use InvalidArgumentException;
-use SiteMap\Exceptions\PermissionException;
+use Popsy\SiteMap\Exceptions\PermissionException;
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Filesystem\Path;
 

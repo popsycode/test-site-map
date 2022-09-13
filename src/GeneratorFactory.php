@@ -1,11 +1,11 @@
 <?php
 
-namespace SiteMap;
+namespace Popsy\SiteMap;
 
-use SiteMap\Exceptions\ClassNotFoundException;
-use SiteMap\Generators\CsvGenerator;
-use SiteMap\Generators\JsonGenerator;
-use SiteMap\Generators\XmlGenerator;
+use Popsy\SiteMap\Exceptions\ClassNotFoundException;
+use Popsy\SiteMap\Generators\CsvGenerator;
+use Popsy\SiteMap\Generators\JsonGenerator;
+use Popsy\SiteMap\Generators\XmlGenerator;
 
 class GeneratorFactory implements IGeneratorFactory
 {

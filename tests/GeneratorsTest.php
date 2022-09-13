@@ -1,10 +1,10 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use SiteMap\Exceptions\PermissionException;
-use SiteMap\GeneratorFactory;
-use SiteMap\Generators\JsonGenerator;
-use SiteMap\Generators\XmlGenerator;
+use Popsy\SiteMap\Exceptions\PermissionException;
+use Popsy\SiteMap\GeneratorFactory;
+use Popsy\SiteMap\Generators\JsonGenerator;
+use Popsy\SiteMap\Generators\XmlGenerator;
 use Symfony\Component\Filesystem\Filesystem;
 use Symfony\Component\Filesystem\Path;
 

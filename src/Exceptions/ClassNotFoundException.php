@@ -1,6 +1,6 @@
 <?php
 
-namespace SiteMap\Exceptions;
+namespace Popsy\SiteMap\Exceptions;
 
 use RuntimeException;
 

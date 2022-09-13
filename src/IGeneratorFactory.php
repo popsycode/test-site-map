@@ -1,6 +1,6 @@
 <?php
 
-namespace SiteMap;
+namespace Popsy\SiteMap;
 
 interface IGeneratorFactory
 {

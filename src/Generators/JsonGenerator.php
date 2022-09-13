@@ -1,10 +1,10 @@
 <?php
 
-namespace SiteMap\Generators;
+namespace Popsy\SiteMap\Generators;
 
 
 
-use SiteMap\AbstractGenerator;
+use Popsy\SiteMap\AbstractGenerator;
 
 class JsonGenerator extends AbstractGenerator
 {
